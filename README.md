@@ -24,8 +24,8 @@ Engineer with professional experience in industrial projects, PMO, QA/QC and ERP
 
 ## 📌 Featured Projects
 
-### AthensRide Data Engineering Pipeline
-Streaming data pipeline using Kafka, Spark Structured Streaming and PostgreSQL.
+### [AthensRide Data Engineering Pipeline](https://github.com/marios-kapetanos/athensride-data-engineering)
+Streaming data pipeline using Kafka and Spark Structured Streaming for real-time ride analytics.
 
 ### Customer Segmentation
 Machine learning project focused on customer segmentation and clustering techniques.
