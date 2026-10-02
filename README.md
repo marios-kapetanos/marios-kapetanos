@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Marios Kapetanos 👋
 
-<!--
-**marios-kapetanos/marios-kapetanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer with professional experience in industrial projects, PMO, QA/QC and ERP environments, currently expanding my technical profile into Data Engineering, Machine Learning and software-driven engineering solutions.
 
-Here are some ideas to get you started:
+## 🔧 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Engineering
+- Machine Learning
+- Python & Data Analysis
+- ERP Systems
+- Engineering Software
+
+## 🛠 Technologies & Tools
+
+- Python
+- SQL
+- PostgreSQL
+- Apache Kafka
+- Apache Spark
+- Docker
+- Machine Learning
+- Data Analysis
+- ERP / Epicor
+
+## 📌 Featured Projects
+
+### AthensRide Data Engineering Pipeline
+Streaming data pipeline using Kafka, Spark Structured Streaming and PostgreSQL.
+
+### Customer Segmentation
+Machine learning project focused on customer segmentation and clustering techniques.
+
+### Neural Network Classification
+Neural network project focused on model training, validation and overfitting control.
+
+## 🎓 Education & Development
+
+Currently completing the **AUEB AI Data Factory – Machine Learning & Data Analysis Bootcamp**, with hands-on projects in data engineering, machine learning and applied data analysis.
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/marios-kapetanos)
