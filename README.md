@@ -1,14 +1,18 @@
 # Hi, I'm Marios Kapetanos 👋
 
-Engineer with professional experience in industrial projects, PMO, QA/QC and ERP environments, currently expanding my technical profile into Data Engineering, Machine Learning and software-driven engineering solutions.
+Engineer with professional experience in industrial projects, PMO, QA/QC and ERP environments, currently expanding into Data Engineering, Machine Learning and software-driven engineering solutions.
 
-## 🔧 Current Focus
+My focus is on combining engineering domain knowledge with data, automation and software tools to solve practical problems.
 
-- Data Engineering
-- Machine Learning
+## 🔧 Technical Focus
+
 - Python & Data Analysis
-- ERP Systems
-- Engineering Software
+- Machine Learning
+- Data Engineering
+- SQL & PostgreSQL
+- Apache Kafka & Spark
+- Docker
+- ERP / Epicor
 
 ## 🛠 Technologies & Tools
 
