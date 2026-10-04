@@ -22,17 +22,16 @@ My focus is on combining engineering domain knowledge with data, automation and 
 - Apache Kafka
 - Apache Spark
 - Docker
-- Machine Learning
-- Data Analysis
-- ERP / Epicor
+- PyTorch
+- Scikit-learn
+- Epicor
 
 ## 🎯 Areas of Interest
 
 - Data Engineering
 - Machine Learning
 - Engineering Software
-- ERP Systems
-- Industrial Digitalization
+- ERP & Industrial Digitalization
 
 ## 📌 Featured Projects
 
