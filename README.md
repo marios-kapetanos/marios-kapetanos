@@ -31,8 +31,8 @@ Streaming data pipeline using Kafka and Spark Structured Streaming for real-time
 Machine learning project focused on customer segmentation using KMeans clustering, Elbow Method and Silhouette Score.
 
 
-### Neural Network Classification
-Neural network project focused on model training, validation and overfitting control.
+### [Airline Sentiment Classification with ANN](https://github.com/marios-kapetanos/airline-sentiment-ann)
+Neural network project for multi-class airline tweet sentiment classification using TF-IDF and PyTorch.
 
 ## 🎓 Education & Development
 
