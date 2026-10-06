@@ -38,8 +38,8 @@ My focus is on combining engineering domain knowledge with data, automation and 
 ### [AthensRide Data Engineering Pipeline](https://github.com/marios-kapetanos/athensride-data-engineering)
 Streaming data pipeline using Kafka and Spark Structured Streaming for real-time ride analytics.
 
-### [Airline Sentiment Classification with ANN](https://github.com/marios-kapetanos/airline-sentiment-ann)
-Neural network project for multi-class airline tweet sentiment classification using TF-IDF and PyTorch.
+### [Airline Sentiment Classification with ANN & Bi-LSTM](https://github.com/marios-kapetanos/airline-sentiment-ann)
+NLP sentiment classification project comparing TF-IDF + feed-forward ANN with a Bi-LSTM + Attention model in PyTorch.
 
 ### [Customer Segmentation with KMeans](https://github.com/marios-kapetanos/customer-segmentation-ml)
 Machine learning project focused on customer segmentation using KMeans clustering, Elbow Method and Silhouette Score.
